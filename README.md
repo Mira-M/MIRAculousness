@@ -30,3 +30,4 @@ A directory of resources that I've discovered throughout learning programming
 
 ## Testing Software
  - [Python Unit Test Tutorial](https://github.com/cgoldberg/python-unittest-tutorial)
+ - [Pep8 - Simple Python Style Checker](https://github.com/PyCQA/pep8)
