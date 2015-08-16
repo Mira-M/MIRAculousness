@@ -11,11 +11,14 @@ A directory of resources that I've discovered throughout learning programming
 
 ## TOC
 
+- [Bash & Shell Scripting](#bash-shell-scripting)
 - [Interview Resources](#interview-resources)
 - [Recursion](#recursion)
 - [Software Engineering](#software-engineering)
 - [Testing Software](#testing-software)
 
+## Bash Shell Scripting
+  [How to update Bash Profile](http://natelandau.com/my-mac-osx-bash_profile/)
 ## Interview Resources
 
 - []()
