@@ -19,9 +19,11 @@ A directory of resources that I've discovered throughout learning programming
 
 ## Bash Shell Scripting
   [How to update Bash Profile](http://natelandau.com/my-mac-osx-bash_profile/)
+  [Searching File System - Straightforward Grep info](http://www.macworld.com/article/1041504/jangeekfactor.html)
+
 ## Interview Resources
 
-- []()
+- [Java Quizzes/Logic Puzzles](http://www.indiabix.com/java-programming/questions-and-answers/)
 
 ## Software Engineering
 
