@@ -16,6 +16,7 @@ A directory of resources that I've discovered throughout learning programming
 - [Recursion](#recursion)
 - [Software Engineering](#software-engineering)
 - [Testing Software](#testing-software)
+- [Math](#math)
 
 ## Bash Shell Scripting
   [How to update Bash Profile](http://natelandau.com/my-mac-osx-bash_profile/)
@@ -36,3 +37,6 @@ A directory of resources that I've discovered throughout learning programming
 ## Testing Software
  - [Python Unit Test Tutorial](https://github.com/cgoldberg/python-unittest-tutorial)
  - [Pep8 - Simple Python Style Checker](https://github.com/PyCQA/pep8)
+
+## Math
+- [Linear Algebra](https://dl.dropboxusercontent.com/u/28928849/Webpages/LinearAlgebraVideoLibraryTable.htm)
