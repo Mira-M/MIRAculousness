@@ -40,3 +40,4 @@ A directory of resources that I've discovered throughout learning programming
 
 ## Math
 - [Linear Algebra](https://dl.dropboxusercontent.com/u/28928849/Webpages/LinearAlgebraVideoLibraryTable.htm)
+- [System of Equations - Elimination] (https://www.khanacademy.org/math/algebra-basics/core-algebra-systems/core-algebra-systems-tutorial/v/solving-systems-of-equations-by-elimination)
