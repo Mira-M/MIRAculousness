@@ -11,12 +11,16 @@ A directory of resources that I've discovered throughout learning programming
 
 ## TOC
 
+- [API Resources](#api-resources)
 - [Bash & Shell Scripting](#bash-shell-scripting)
 - [Interview Resources](#interview-resources)
+- [Math](#math)
 - [Recursion](#recursion)
 - [Software Engineering](#software-engineering)
 - [Testing Software](#testing-software)
-- [Math](#math)
+
+## API Resources
+[Dash for OS X](https://kapeli.com/dash)
 
 ## Bash Shell Scripting
   [How to update Bash Profile](http://natelandau.com/my-mac-osx-bash_profile/)
@@ -25,6 +29,10 @@ A directory of resources that I've discovered throughout learning programming
 ## Interview Resources
 
 - [Java Quizzes/Logic Puzzles](http://www.indiabix.com/java-programming/questions-and-answers/)
+
+## Math
+- [Linear Algebra](https://dl.dropboxusercontent.com/u/28928849/Webpages/LinearAlgebraVideoLibraryTable.htm)
+- [System of Equations - Elimination] (https://www.khanacademy.org/math/algebra-basics/core-algebra-systems/core-algebra-systems-tutorial/v/solving-systems-of-equations-by-elimination)
 
 ## Software Engineering
 
@@ -37,7 +45,3 @@ A directory of resources that I've discovered throughout learning programming
 ## Testing Software
  - [Python Unit Test Tutorial](https://github.com/cgoldberg/python-unittest-tutorial)
  - [Pep8 - Simple Python Style Checker](https://github.com/PyCQA/pep8)
-
-## Math
-- [Linear Algebra](https://dl.dropboxusercontent.com/u/28928849/Webpages/LinearAlgebraVideoLibraryTable.htm)
-- [System of Equations - Elimination] (https://www.khanacademy.org/math/algebra-basics/core-algebra-systems/core-algebra-systems-tutorial/v/solving-systems-of-equations-by-elimination)
