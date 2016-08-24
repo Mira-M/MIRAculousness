@@ -18,6 +18,7 @@ A directory of resources that I've discovered throughout learning programming
 - [Math](#math)
 - [Recursion](#recursion)
 - [Software Engineering](#software-engineering)
+- [TDD - Test Driven Development](#tdd)
 - [Testing Software](#testing-software)
 
 ## API Resources
@@ -43,6 +44,9 @@ A directory of resources that I've discovered throughout learning programming
 
 ## Recursion
 - [How to think like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/Recursion/recursionsimple.html)
+
+## TDD
+- [Roy Osherove TDD Kata 2](http://osherove.com/tdd-kata-2/)
 
 ## Testing Software
 - [Python Unit Test Tutorial](https://github.com/cgoldberg/python-unittest-tutorial)
